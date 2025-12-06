@@ -109,7 +109,7 @@ for (int i = 0; i < s.Length / 2; i++)
 Console.WriteLine(isPalindrome);
 */
 
-/*
+
 Console.WriteLine("Matnni kiriting: ");
 string text = Console.ReadLine();
 string result = "";
@@ -121,10 +121,10 @@ for (int i = 0; i < text.Length; i++)
     }
 }
 Console.WriteLine(result);
-*/
 
 
-using System;
+
+/*using System;
 
 class Program
 {
@@ -177,3 +177,4 @@ class Program
         }
     }
 }
+*/
